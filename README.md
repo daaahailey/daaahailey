@@ -1,7 +1,7 @@
 ### Hi there 👋 안녕하세요<br>
 I am Dahye 🙂 <br>
 I’m currently learning programming to be a Frontend Developer 👩🏻‍💻 <br>
-프론트엔드 개발자가 되기위해 공부중인 지다혜 라고 합니다. <br>
+프론트엔드 개발자가 되기 위해 공부중인 지다혜 라고 합니다. <br>
 Feel free to reach out to me 💌 daaahailey@gmail.com [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:daaahailey@gmail.com)<br>
 연락은 위 이메일로 부탁드립니다! <br>
 
