@@ -13,7 +13,7 @@ Feel free to reach out to me 💌 daaahailey@gmail.com [![Gmail Badge](https://i
 
 ### Additional skill  <img src="https://img.shields.io/badge/AdobePhotoshop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white" /><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daaahailey&?exclude_repo=likelion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daaahailey&?exclude_repo=likelion&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 
